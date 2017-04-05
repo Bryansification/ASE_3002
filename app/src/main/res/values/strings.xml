@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bryancare</string>
+    <string-array name="queues_array">
+        <item>Average Wait Time</item>
+        <item>General Ailments</item>
+        <item>Medical Tests</item>
+        <item>Medical Review</item>
+        <item>Dental</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="purpose_array">
+        <item>General Ailments</item>
+        <item>Medical Tests</item>
+        <item>Medical Review</item>
+        <item>Dental</item>
+        <item>Others</item>
+    </string-array>
+</resources>

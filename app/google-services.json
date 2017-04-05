@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "233869678118",
+    "firebase_url": "https://bryancare-936b7.firebaseio.com",
+    "project_id": "bryancare-936b7",
+    "storage_bucket": "bryancare-936b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233869678118:android:d3382ea449c25037",
+        "android_client_info": {
+          "package_name": "com.example.jj.bryancare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233869678118-6ln9anfh2j47ig7v06olclaul47us9tp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jj.bryancare",
+            "certificate_hash": "b5eb4ed818979bb0922c1ab1f3ef80fec4ec31e0"
+          }
+        },
+        {
+          "client_id": "233869678118-istrn7qqii8m12f4jr4l1gkvi3b71vj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ5PBiN98rtLi4I5lk8TJcjj44wpJbB3w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233869678118-istrn7qqii8m12f4jr4l1gkvi3b71vj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
